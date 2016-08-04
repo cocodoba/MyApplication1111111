@@ -12,6 +12,7 @@ public class MainActivity extends ActionBarActivity {
     //SECOND COMMIT master
 
     //THIRD COMMIT master
+    //FORTH COMMIT master
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
